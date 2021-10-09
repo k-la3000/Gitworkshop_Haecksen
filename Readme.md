@@ -8,3 +8,6 @@ Naerrin
 Phoibi
 
 Group 2:
+Frey
+Romy
+Tinoca
